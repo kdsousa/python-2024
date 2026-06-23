@@ -1,0 +1,33 @@
+# %%
+# Isso é uma soma
+print( 2 + 2)
+
+# Isso é uma subtração
+print( 10 - 5)
+
+# %%
+print(10 * 2)
+print(10/2)
+
+# %%
+type(20)
+
+# %%
+type(5.0)
+
+# %%
+# Resto da Divisão
+print( 7 % 3)
+
+print(7 / 3)
+
+# Parte inteira da divisão
+print(7 // 3)
+
+# %%
+# Exponenciação
+print( 10 ** 2)
+
+# %%
+# Raiz quadrada
+print(49 ** 0.5)
